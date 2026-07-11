@@ -4,6 +4,7 @@
     { "key": "audioplayerlucasgamer",  "senha": "lucasgamer12345", "expires": "ativo",   "name": "lucasgamer" },
     { "key": "audioplayerpedroaugusto",     "senha": "pedroaugusto12345", "expires": "desativada", "name": "pedroaugusto"  },
     { "key": "audioplayergabrieli",      "senha": "gabrieliaraujo12345", "expires": "ativo", "name": "gabrieliaraujo"  },
-    { "key": "audioplayerelisangela",      "senha": "020410", "expires": "ativo", "name": "elisangelajac"  }
+    { "key": "audioplayerelisangela",      "senha": "020410", "expires": "ativo", "name": "elisangelajac"  },
+    { "key": "audioplayertiovip",      "senha": "020410aa", "expires": "ativo", "name": "carlosmagno"  }
   ]
 }
