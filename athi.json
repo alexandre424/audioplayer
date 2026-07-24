@@ -1,10 +1,50 @@
 {
   "clients": [
-    { "key": "audioplayerxandao",  "senha": "xandao12345", "expires": "ativo",   "name": "xandaogamer" },
-    { "key": "audioplayerlucasgamer",  "senha": "lucasgamer12345", "expires": "ativo",   "name": "lucasgamer" },
-    { "key": "audioplayerpedroaugusto",     "senha": "pedroaugusto12345", "expires": "desativada", "name": "pedroaugusto"  },
-    { "key": "audioplayergabrieli",      "senha": "gabrieliaraujo12345", "expires": "ativo", "name": "gabrieliaraujo"  },
-    { "key": "audioplayerelisangela",      "senha": "020410", "expires": "ativo", "name": "elisangelajac"  },
-    { "key": "audioplayertiovip",      "senha": "020410aa", "expires": "ativo", "name": "carlosmagno"  }
-  ]
+    {
+      "key": "chave-do-cliente",
+      "senha": "troque-por-uma-senha-forte",
+      "expires": "ativo",
+      "name": "nome-do-cliente",
+      "account": "comum"
+    },
+    {
+      "key": "chave-vip",
+      "senha": "troque-por-uma-senha-forte",
+      "expires": "ativo",
+      "name": "cliente-vip",
+      "account": "vip"
+    }
+  ],
+  "app": {
+    "announcement": "Escreva aqui a novidade que aparecerá no aplicativo.",
+    "season": "Fogo Violeta",
+    "partners": [
+      {
+        "id": "comunidade",
+        "name": "Comunidade Dragão Mixer",
+        "description": "Servidor oficial para suporte, sugestões e parcerias.",
+        "badge": "OFICIAL",
+        "url": "https://discord.gg/hheEzVbgQj",
+        "accent": "#8b5cf6"
+      }
+    ],
+    "store": [
+      {
+        "id": "vip-fogo",
+        "name": "VIP Fogo Violeta",
+        "description": "Selo VIP, temas e perfil especial.",
+        "price": "Fale com o criador",
+        "badge": "MAIS PEDIDO",
+        "icon": "👑",
+        "vipOnly": false
+      }
+    ],
+    "ranking": [
+      {
+        "videoId": "7NOSDKb0HlU",
+        "votes": 9842,
+        "badge": "CAMPEÃ"
+      }
+    ]
+  }
 }
