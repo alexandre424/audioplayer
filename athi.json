@@ -9,6 +9,14 @@
     },
     {
       "key": "xandaogamer",
+      "senha": "36231717abc",
+      "expires": "ativo",
+      "name": "xandaogamer",
+      "Admin": "sim",
+      "account": "comum"
+    }
+    {
+      "key": "xandaogamer",
       "senha": "36231717aa",
       "expires": "ativo",
       "name": "cliente-vip",
